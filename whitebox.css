@@ -21,6 +21,11 @@ h1{
 
 .lists{
    list-style-type: none;
+   display: flex;
+   justify-content: space-evenly;
+   padding: 15px;
+   align-items: center;
+   
 
 }
 
